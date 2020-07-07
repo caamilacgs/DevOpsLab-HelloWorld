@@ -23,5 +23,5 @@ Deploy
 Monitor
 
 
-## Projeto elaborado para exemplificação o ciclo de PipeLine DevOps 
+Projeto elaborado para exemplificação o ciclo de PipeLine DevOps 
 Para o curso de DevOps Essentials da [4Linux](https://www.4linux.com.br/cursos/devops)
